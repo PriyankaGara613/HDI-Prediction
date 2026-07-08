@@ -1,3 +1,8 @@
+
+DEMO VIDEO LINK: 
+https://github.com/user-attachments/assets/df72ecb0-7b21-4128-9e8e-2ab341b3a285
+
+
 A Comprehensive Measure of Well-Being (HDI Prediction)
 
 Overview
